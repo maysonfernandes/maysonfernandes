@@ -5,9 +5,10 @@
 
 
 
-- 💬 Plano de estudos após esta trilha de dados **SQL, Power BI, Tableau, Qlik, etc.**
+- 💬 Plano de estudos após esta trilha de dados:   
+**SQL, Power BI, Tableau, Qlik, etc.**
 
-- <img class="python-logo" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python™" align="left" height="15" width="25"> Estudando atualmente Python para data science.
+- <img class="python-logo" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python™" align="left" height="15" width="25"> Atualmente focado em Python para data science.
 
 
 <h3 align="left">Redes Sociais</h3>
