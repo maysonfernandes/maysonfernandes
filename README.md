@@ -1,5 +1,5 @@
 <h1 align="left">Olá 👋, meu nome é Mayson Fernandes</h1>
-<h3 align="left">Sou bacharel em Administração e atualmente estudante de Dados na Alura no programa (desenvolve - Grupo Boticário). Tenho experiencia em controle de Qualidade (ISO 9001-2015) no ramo de montagem eletromecânica (hidrelétrica Jirau). E atuei como auxiliar administrativo em uma loja de materiais de construção e produtos agropecuários :bar_chart:</h3>
+<h3 align="left">Sou bacharel em Administração e atualmente estudante de Dados na Alura no programa (desenvolve - Grupo Boticário). Tenho experiencia em controle de Qualidade (ISO 9001-2015) no ramo de montagem eletromecânica (hidrelétrica Jirau). E atuei como auxiliar administrativo em uma loja de materiais de construção e produtos agropecuários. Atualmente técnico de Qualidade (ISO 9001:2015) na Elecnor do Brasil, desenvolvendo atividades de escritório (controle de documentos) e acompanhamento da execução de atividades em campo (civil, montagem em lançamento). :bar_chart:</h3>
 
 <img src="https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e477jm1w0nqlguh7k9tssf9re5zpy1l6shbf2v50ae7&amp;rid=giphy.gif&amp;ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
 
