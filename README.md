@@ -4,7 +4,7 @@
 <img src="https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e477jm1w0nqlguh7k9tssf9re5zpy1l6shbf2v50ae7&amp;rid=giphy.gif&amp;ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
 
 
-- <img class="python-logo" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python™" align="left" height="15" width="25"> Atualmente focado em Python para data science.
+- <img class="python-logo" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python™" align="left" height="15" width="25"> Atualmente focado em Machine Learning.
 
 
 <h3 align="left">Redes Sociais</h3>
